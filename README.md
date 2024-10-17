@@ -5,3 +5,15 @@ A fighting game clone of King of Fighters built with vanilla java and swing libr
 ### SPRITES RESOURCES:
 
 https://www.spritedatabase.net/game/849
+
+## CONTROLS:
+
+- W (up)
+- S (crouch)
+- A (walk backward)
+- D (walk forward)
+
+- 5 (jab)
+- 6 (heavy punch)
+- T (light kick)
+- Y (heavy kick)
