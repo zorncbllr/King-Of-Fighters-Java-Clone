@@ -17,3 +17,7 @@ https://www.spritedatabase.net/game/849
 - 6 (heavy punch)
 - T (light kick)
 - Y (heavy kick)
+
+### BASIC COMBO
+
+- D-S-T (fireball)
